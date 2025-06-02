@@ -433,11 +433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yamili\\repo2\\home\\Appi2\\Appi2.csproj",
+      "projectUniqueName": "C:\\Users\\Yamili\\PRACTICA\\home\\Appi2\\Appi2.csproj",
       "projectName": "Appi2",
-      "projectPath": "C:\\Users\\Yamili\\repo2\\home\\Appi2\\Appi2.csproj",
+      "projectPath": "C:\\Users\\Yamili\\PRACTICA\\home\\Appi2\\Appi2.csproj",
       "packagesPath": "C:\\Users\\Yamili\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yamili\\repo2\\home\\Appi2\\obj\\",
+      "outputPath": "C:\\Users\\Yamili\\PRACTICA\\home\\Appi2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Yamili\\AppData\\Roaming\\NuGet\\NuGet.Config"

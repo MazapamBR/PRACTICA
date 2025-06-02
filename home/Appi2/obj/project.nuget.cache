@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d5I4289/ohOJwq5TxrtFQU+ZVXbq9kSmVOfANOzZcuU6+U/YJapmCcmGqGClnQuCarr/vd9wo6srOYfMaoFSiA==",
+  "dgSpecHash": "PWbhLPLN84X4cqrzBE0Agg6wkT+jRzOdaQexuIOFPs3+HY1qZX9ZmrxzPt13xkt3Acma/3R3iByHIJrdqtluYQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yamili\\repo2\\home\\Appi2\\Appi2.csproj",
+  "projectFilePath": "C:\\Users\\Yamili\\PRACTICA\\home\\Appi2\\Appi2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yamili\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Yamili\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
