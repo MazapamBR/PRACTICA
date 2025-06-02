@@ -428,19 +428,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Yamili\\.nuget\\packages\\": {}
+    "C:\\Users\\cocom\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yamili\\PRACTICA\\home\\Appi2\\Appi2.csproj",
+      "projectUniqueName": "C:\\Users\\cocom\\PRACTICA\\home\\Appi2\\Appi2.csproj",
       "projectName": "Appi2",
-      "projectPath": "C:\\Users\\Yamili\\PRACTICA\\home\\Appi2\\Appi2.csproj",
-      "packagesPath": "C:\\Users\\Yamili\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yamili\\PRACTICA\\home\\Appi2\\obj\\",
+      "projectPath": "C:\\Users\\cocom\\PRACTICA\\home\\Appi2\\Appi2.csproj",
+      "packagesPath": "C:\\Users\\cocom\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\cocom\\PRACTICA\\home\\Appi2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Yamili\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\cocom\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -458,6 +458,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -488,7 +493,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.410/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
